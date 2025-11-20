@@ -15,7 +15,7 @@ This project combines the power of **Web NFC** and a **native Android NFC reader
 
 ---
 
-## 📸 Demo Screenshots
+## 📸 Screenshots
 
 <table>
   <tr>
