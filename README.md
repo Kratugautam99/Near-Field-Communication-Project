@@ -11,6 +11,45 @@ Welcome to **Near-Field-Communication-Project**, a dual-platform solution for in
 
 ---
 
+## 📸 Screenshots
+
+## Demo Screenshots
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://github.com/Kratugautam99/Near-Field-Communication-Project/blob/main/Demo/NFCapp1.png" alt="NFC App (On Not Supported Device)" width="250"/>
+        <p><b>NFC App (On Not Supported Device)</b></p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://github.com/Kratugautam99/Near-Field-Communication-Project/blob/main/Demo/NFCapp2.png" alt="NFC App (On Supported Device)" width="250"/>
+        <p><b>NFC App (On Supported Device)</b></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://github.com/Kratugautam99/Near-Field-Communication-Project/blob/main/Demo/NFCweb1.png" alt="NFC Web (Instructions and Working)" width="500"/>
+        <p><b>NFC Web (Instructions and Working)</b></p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://github.com/Kratugautam99/Near-Field-Communication-Project/blob/main/Demo/NFCweb2.png" alt="NFC Web (Source and Technical Details)" width="500"/>
+        <p><b>NFC Web (Source and Technical Details)</b></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
 ## 📦 Project Structure
 
 ```bash
@@ -23,6 +62,7 @@ near-field-communication/
 ├── package.json          # Node.js dependencies and scripts
 ├── server.js             # Express server for Web NFC
 ```
+
 --- 
 
 ## 🧠 About the Project
