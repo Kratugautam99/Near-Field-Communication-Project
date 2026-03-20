@@ -1,5 +1,11 @@
 # 📡 Near-Field-Communication-Project
 
+<p align="center">
+  <img src="https://github.com/Kratugautam99/Near-Field-Communication-Project/blob/main/NFCReaderApp/fastlane/metadata/android/en-US/images/icon.png?raw=true" alt="App Icon" width="400"/>
+</p>
+
+
+
 Welcome to **Near-Field-Communication-Project**, a dual-platform solution for interacting with NFC (Near Field Communication) tags and devices.  
 This project combines the power of **Web NFC** and a **native Android NFC reader app** to offer seamless tag detection, reading, and writing capabilities.
 
