@@ -59,7 +59,7 @@ This project combines the power of **Web NFC** and a **native Android NFC reader
 ## 📦 Project Structure
 
 ```bash
-near-field-communication/
+Near-Field-Communication-Project/
 ├── Demo/                 # Demonstration Images
 ├── NFCReaderApp/         # Android NFC Reader App (Kotlin-based)
 ├── public/               # Static assets for Web NFC frontend
@@ -67,7 +67,7 @@ near-field-communication/
 ├── .gitignore            # Git ignore rules
 ├── license.txt           # MIT License
 ├── package.json          # Node.js dependencies and scripts
-├── server.js             # Express server for Web NFC
+└── server.js             # Express server for Web NFC
 ```
 
 ---
