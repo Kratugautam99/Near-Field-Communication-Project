@@ -67,6 +67,7 @@ Near-Field-Communication-Project/
 ├── .gitignore            # Git ignore rules
 ├── license.txt           # MIT License
 ├── package.json          # Node.js dependencies and scripts
+├── README.md             # This File
 └── server.js             # Express server for Web NFC
 ```
 
